@@ -10,6 +10,3 @@ input.onGesture(Gesture.TiltLeft, function () {
 input.onGesture(Gesture.TiltRight, function () {
     basic.showArrow(ArrowNames.East)
 })
-basic.forever(function () {
-	
-})
